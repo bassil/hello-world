@@ -7,8 +7,7 @@ residing in sunny Vermont.
 I studied Mathematics with Computer Science (Theoretical Computer Science) at MassTech, 
 and occasionally cook gourmet dinners.
 
-I'm currently working on a team trying to better understand trips from "big" data.
+Most recently, I worked on a team trying to better understand trips from "big" data.
 
 My current "non-academic" interests include history of human interaction, 
-debating soccer tactics, and trying to figure out how to disrupt existing 
-markets with innovation.
+debating soccer tactics, and whether 42 is really the answer to the meaning of life, the universe, and everything.
