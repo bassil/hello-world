@@ -2,7 +2,7 @@
 quite literal really
 
 I'm a painting, soccer, and warm weather enthusiast
-residing in sunny Vermont.
+residing in sunny MA.
 
 I studied Mathematics with Computer Science (Theoretical Computer Science) at MassTech, 
 and occasionally cook gourmet dinners.
